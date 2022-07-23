@@ -10,7 +10,7 @@ import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, co
 
 __author__ = 'SASANK'
 
-__copyright = 'All rights reserved . Copyright  KHUSHAL VALA'
+__copyright = 'All rights reserved . Copyright  SASANK VALA'
 
 CorrectUsername = 'SASANK'
 
@@ -26,7 +26,7 @@ while (loop == 'true'):
 
             time.sleep(1)
 
-            os.system('xdg-open https://www.facebook.com/SASANK.07')
+            os.system('xdg-open https://www.facebook.com/SASANK07')
 
             os.system('clear')
 
@@ -34,7 +34,7 @@ while (loop == 'true'):
 
     else:
 
-        os.system('xdg-open https://www.facebook.com/SASANK.07')
+        os.system('xdg-open https://www.facebook.com/SASANK07')
 
         os.system('clear')
 
@@ -174,7 +174,7 @@ logo = """
 
 \033[1;91m Youtube    :  NOT ACTIVE
 
-\033[1;91m FACEBOOK  :  https://www.facebook.com/SASANK.07
+\033[1;91m FACEBOOK  :  https://www.facebook.com/SASANK07
 
 \033[1;91m VERSOIN   : 0.9.1
 
